@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GlassCloud
+  m_Shader: {fileID: 4800000, guid: 92b53f15345a04ebd8e98a9dc852d7a7, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _BloomIntensity: 3.9
+    - _BloomSpread: 2
+    - _ColorVariation: 0.5
+    - _DistortionStrength: 0.2
+    - _Glossiness: 0.72
+    - _Glow: 0.7
+    - _GlowIntensity: 10
+    - _GlowSize: 5
+    - _Metallic: 0
+    - _NoiseScale: 1
+    - _PatchSize: 4
+    - _TimeSpeed: 1
+    m_Colors:
+    - _BloomColor: {r: 0.17986828, g: 0.8173625, b: 0.8867924, a: 1}
+    - _Color: {r: 0.5758764, g: 0.34100214, b: 0.9150943, a: 1}
+    - _GlowColor: {r: 0.93808126, g: 1, b: 0, a: 1}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
